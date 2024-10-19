@@ -1,0 +1,24 @@
+#map {
+    height: 80vh;
+    width: 100hw;
+  }
+  
+  h1{
+    color:darkblue;
+    font-family: Verdana;
+    text-align: center;
+  }
+  
+  select{
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  
+  .parish-label {
+    font-size: 8px;
+    color: #a7a7a7;
+    background-color: rgb(20, 19, 19);
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
